@@ -77,9 +77,7 @@ function filter(array) {
   // });
   // return resultado;
   //Metodo COrto
-  return array.filter(function (palabra) {
-    return palabra[0] === "a";
-  });
+  return array.filter((p) => p[0] === "a");
 }
 
 // No modificar nada debajo de esta línea
