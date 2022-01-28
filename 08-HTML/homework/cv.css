@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+
+  justify-content: center;
+}
+.header img {
+  padding: 0 20px;
+  width: 100px;
+  border-radius: 25%;
+}
+h1 {
+  text-align: center;
+}
+.des {
+  margin: 0 auto;
+  background-color: darkgrey;
+  width: 65%;
+}
